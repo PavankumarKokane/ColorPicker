@@ -16,7 +16,10 @@ SDK Config
         minSdkVersion 19
         targetSdkVersion 29
         
-
+<h3>Screenshots<h3>
+ <img src="https://user-images.githubusercontent.com/66868015/84567195-aa2c0c80-ad94-11ea-8ddc-8a78c426733d.png" width="250" hight="500" />
+ <img src="https://user-images.githubusercontent.com/66868015/84567197-ab5d3980-ad94-11ea-93a4-4291a00b941c.png" width="250" hight="500" />
+ <img src="https://user-images.githubusercontent.com/66868015/84567193-a8624900-ad94-11ea-9fc6-08fb511a0baf.png" width="250" hight="500" />
 
 <h1>Download The App</h1>
 
